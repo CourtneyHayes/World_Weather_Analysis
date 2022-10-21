@@ -10,3 +10,6 @@ We have used weather description data already retireved for this module to enhan
 2. Create a customer travel destinations map
 3. Create a travel itinerary map
 
+
+### Conclusion
+Being able to add these features will greatly improve the users experience with the app therfore making it more successful for the company. Continued evalutation and beta testing using these function could find help identify other improvements.
