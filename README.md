@@ -12,4 +12,4 @@ We have used weather description data already retireved for this module to enhan
 
 
 ### Conclusion
-Being able to add these features will greatly improve the users experience with the app therfore making it more successful for the company. Continued evalutation and beta testing using these function could find help identify other improvements.
+Being able to add these features will greatly improve the users experience with the app therfore making it more successful for the company. Continued evalutation and beta testing using these function could find help identify other improvements. Enhancing the users experience will lead to more activity for the app. 
